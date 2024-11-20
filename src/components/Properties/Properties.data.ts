@@ -1,8 +1,8 @@
 export const dataProperties = [
   {
     id: 1,
-    location: "Cuenca, Valencia, ES",
-    price: 200000,
+    location: "Hernandarias, Alto Parana, Py",
+    price: 200000000,
     bedrooms: 3,
     bathroom: 1,
     image: "propertie1.jpeg",
