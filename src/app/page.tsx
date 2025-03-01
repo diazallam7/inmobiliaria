@@ -6,8 +6,10 @@ import { Header } from '@/components/Header'
 import { JoinCommunity } from '@/components/JoinCommunity'
 import { Properties } from '@/components/Properties'
 import { Services } from '@/components/Services'
+import { SearchLocation } from '@/components/SearchLocation'
 import { TransitionPage } from '@/components/TransitionPage'
 import dynamic from "next/dynamic"
+
 
 const LocationMap = dynamic(
   () => import('../components/Location').then(module => module.Location),

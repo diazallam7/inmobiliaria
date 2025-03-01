@@ -6,7 +6,6 @@ const quickSand = Quicksand({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Real State - TarreDev',
-  description: 'Aplicación creada del video de Youtube de TarreDev',
 }
 
 export default function RootLayout({

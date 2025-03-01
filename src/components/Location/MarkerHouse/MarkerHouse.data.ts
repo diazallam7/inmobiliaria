@@ -13,8 +13,8 @@ export const housesData = [
     name: "Madrid",
     image: "house2.jpg",
     position: {
-      lat: 40.4165,
-      lng: -3.70256,
+      lat: -25.402201,
+      lng: -54.647680,
     },
   },
   {
@@ -22,8 +22,8 @@ export const housesData = [
     name: "Vigo",
     image: "house8.jpg",
     position: {
-      lat: 42.23282,
-      lng: -8.72264,
+      lat:-25.399490,
+      lng: -54.645921,
     },
   },
   {
@@ -31,8 +31,8 @@ export const housesData = [
     name: "Sevilla",
     image: "house3.jpg",
     position: {
-      lat: 37.38283,
-      lng: -5.97317,
+      lat: -25.525318,
+      lng: -54.656773,
     },
   },
   {
@@ -40,8 +40,8 @@ export const housesData = [
     name: "Barcelona",
     image: "house1.jpg",
     position: {
-      lat: 41.41803,
-      lng: 2.18596,
+      lat: -25.555407,
+      lng:-54.613774,
     },
   },
   {
@@ -49,8 +49,8 @@ export const housesData = [
     name: "Pamplona",
     image: "house7.jpg",
     position: {
-      lat: 42.81687,
-      lng: -1.64323,
+      lat: -25.514449,
+      lng: -54.668226,
     },
   },
   {
